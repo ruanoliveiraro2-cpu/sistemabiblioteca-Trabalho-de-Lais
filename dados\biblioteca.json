@@ -1,0 +1,1 @@
+{"livros": [{"id": 1, "titulo": "o lado bom da vida", "autor": "matew quicl", "ano": 2010, "copias": 10000, "disponiveis": 9999}], "usuarios": [{"id": 1, "nome": "Pedro ", "email": "pedro@email.com"}], "emprestimos": [{"id": 1, "usuario_id": 1, "livro_id": 1, "data_emprestimo": "19/11/2026", "data_prevista": "03/12/2026", "devolvido_em": "19/11/2026"}]}
